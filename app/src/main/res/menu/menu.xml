@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/baseline_looks_one_24"
+        android:title="First Page" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/baseline_looks_two_24"
+        android:title="Second Page" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/baseline_looks_3_24"
+        android:title="Third Page" />
+</menu>
